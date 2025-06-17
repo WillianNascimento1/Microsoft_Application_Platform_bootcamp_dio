@@ -3,7 +3,7 @@
   <p align="center">
     <img 
       alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
+      src="" 
       width="100px" 
     />
     <h1>Microsoft Application Platform</h1>
@@ -24,7 +24,7 @@
     <td>
         <p align="center">Expert</p>
         <a href="https://github.com/hsouzaeduardo">
-        <img src="https://avatars.githubusercontent.com/u/1692867?v=4" alt="@hsouzaeduardo"><br>
+        <img src="" alt="@hsouzaeduardo"><br>
       </a>
     </td>
     <td colspan="3">
@@ -35,7 +35,7 @@
     👨‍💻 w
     </p>
       <a 
-      href="https://www.linkedin.com/in/hsouzaeduardo/" 
+      href="https://www.linkedin" 
       align="center">
            <img 
             align="center" 
@@ -47,7 +47,7 @@
             <img 
               align="center" 
               alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+              src=""
             >
         </a>
     </td>
