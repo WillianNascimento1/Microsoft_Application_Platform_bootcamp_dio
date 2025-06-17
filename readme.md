@@ -12,8 +12,8 @@
 <!--END_SECTION:header-->
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+  <img src="" alt="DIO Project" />
+  <a href="NIVEL"><img  src="" alt="Nivel"></a>
 
 </p>
 
@@ -28,11 +28,11 @@
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 25y+ em sistemas comerciais com .NET C#, python, Azure e IA.
+    <p>w
       <br/>
-     🌟 Gerente Especialista em Arquitetura e IA 
+     🌟 w 
       <br/>
-    👨‍💻 Foco em AI, Cloud e CloudNative
+    👨‍💻 w
     </p>
       <a 
       href="https://www.linkedin.com/in/hsouzaeduardo/" 
@@ -40,10 +40,10 @@
            <img 
             align="center" 
             alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src=""
             >
         </a>
-        <a href="https://www.instagram.com/hsouzaeduardo81/" target="_blank">
+        <a href="" target="_blank">
             <img 
               align="center" 
               alt="Instagram" 
